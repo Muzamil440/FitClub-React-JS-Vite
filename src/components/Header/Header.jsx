@@ -45,7 +45,7 @@ const Header = () => {
             <div
               className="close-btn"
               style={{
-                color: 'white',
+                color: 'red',
                 backgroundColor: 'var(--appColor)',
                 padding: '0.5rem',
                 borderRadius: '5px',
