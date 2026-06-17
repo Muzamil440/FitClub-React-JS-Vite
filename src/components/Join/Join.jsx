@@ -8,10 +8,13 @@ const Join = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    // prettier-ignore
-    emailjs.sendForm('service_wsq7r3s', 'template_zquvrys', form.current, {
-        publicKey: 'g8Vrlh9Gh33WBGkTx',
-      })
+    emailjs
+      .sendForm(
+        'service_m5k6ybx',
+        'template_gkyousr',
+        form.current,
+        'ng_TubcftdP7RmlMc',
+      )
       .then(
         () => {
           console.log('SUCCESS!');

@@ -1,0 +1,78 @@
+Folder PATH listing
+Volume serial number is 0000005E A444:6A24
+D:\LEARNING\FITCLUB-STARTER\SRC
+|   App.css
+|   App.js
+|   index.css
+|   main.jsx
+|   
++---assets
+|       adidas.png
+|       bars.png
+|       calories.png
+|       dumbell.png
+|       dumbell.svg
+|       flame.svg
+|       github.png
+|       heart.png
+|       heartHealth.svg
+|       hero_image.png
+|       hero_image_back.png
+|       image1.png
+|       image2.png
+|       image3.png
+|       image4.png
+|       instagram.png
+|       leftArrow.png
+|       linkedin.png
+|       logo.png
+|       nb.png
+|       nike.png
+|       noise.png
+|       rightArrow.png
+|       runing.png
+|       runing.svg
+|       t-image1.png
+|       t-image2.jpg
+|       t-image3.jpg
+|       tick.png
+|       whiteTick.png
+|       
++---components
+|   +---Footer
+|   |       Footer.css
+|   |       Footer.jsx
+|   |       
+|   +---Header
+|   |       Header.css
+|   |       Header.jsx
+|   |       
+|   +---Hero
+|   |       Hero.css
+|   |       Hero.jsx
+|   |       
+|   +---Join
+|   |       Join.css
+|   |       Join.jsx
+|   |       
+|   +---Plans
+|   |       Plans.css
+|   |       Plans.jsx
+|   |       
+|   +---Programs
+|   |       Programs.css
+|   |       Programs.jsx
+|   |       
+|   +---Reasons
+|   |       Reasons.css
+|   |       Reasons.jsx
+|   |       
+|   \---Testimonials
+|           Testimonials.css
+|           Testimonials.jsx
+|           
+\---data
+        plansData.js
+        programsData.js
+        testimonialsData.js
+        
